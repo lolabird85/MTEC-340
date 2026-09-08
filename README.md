@@ -1,8 +1,8 @@
 # MTEC-340
 <p>Lola Richardson<p>
 <p>Classwork for MTEC-340<p>
-# Console with Boolean flag set
+<h3>Console with Boolean flag set<h3>
 ![Boolean value is set](/Images/Bool_set.png)
-# Console with Boolean flag not set
+<h3>Console with Boolean flag not set<h3>
 ![Boolean value is not set](/Images/Bool_not_set.png)
 My favorite video game OST is [Octopath Traveler](https://youtu.be/DQHDq9anOeY?si=Poa9Ikrgul9Xlibv)
