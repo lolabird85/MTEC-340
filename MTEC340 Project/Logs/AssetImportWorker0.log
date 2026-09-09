@@ -43124,3 +43124,4 @@ Received Import Request.
 Start importing Packages/com.unity.2d.animation/Editor/SkinningModule/SpriteMeshData/SpriteMeshDataController.cs using Guid(5b0085fc7caad034f8513c17d7e40646) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f8945eef232ef36ee01de298027e1944') in 0.001982166 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

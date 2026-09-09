@@ -105,3 +105,6 @@ Cmd: compileSnippet
   error: 1 plat 14 at Project/Library/PackageCache/com.unity.render-pipelines.core@0bb36005e9ba/Editor/Lighting/ProbeVolume/VoxelizeScene.hlsl(352): use of potentially uninitialized variable (rayOrigin) use of potentially uninitialized variable (rayDir)
  ok=1 outsize=28805
 
+Unhandled exception: Protocol error - failed to read magic number. Error code 0x80000004 (Not connected). (transferred 0/4)
+
+Quitting shader compiler process
