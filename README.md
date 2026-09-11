@@ -1,8 +1,11 @@
 # MTEC-340
+# This is my README
 <p>Lola Richardson<p>
 <p>Classwork for MTEC-340<p>
-<h3>Console with Boolean flag set<h3>
-    ![Boolean value is set](./Images/Bool_set.png)
-<h3>Console with Boolean flag not set<h3>
-    ![Boolean value is not set](./Images/Bool_not_set.png)
-<p>My favorite video game OST is [Octopath Traveler](https://youtu.be/DQHDq9anOeY?si=Poa9Ikrgul9Xlibv)<p>
+
+[My favorite OST is Octopath Traveler](https://youtu.be/DQHDq9anOeY?si=Poa9Ikrgul9Xlibv)
+
+## Boolean value is set
+![Boolean value set](./Images/Bool_set.png)
+## Boolean value is not set
+![Boolean value not set](./Images/Bool_not_set.png)
